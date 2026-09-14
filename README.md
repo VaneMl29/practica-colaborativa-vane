@@ -22,3 +22,4 @@ No se recomienda, ya que esta representa la versión oficial y estable del proye
   Al crearse el pull request, le llega una notificación al dueño del repositorio. Este revisa si los cambios propuestos son correctos, y si todo está bien, los integra a la rama main. En caso de que algo no esté correcto, el dueño del repositorio puede declinar los cambios.
   #### vanessa
   mayoral
+  luna
