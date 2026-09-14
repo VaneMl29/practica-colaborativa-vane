@@ -20,3 +20,7 @@ No se recomienda, ya que esta representa la versión oficial y estable del proye
  Con la regla ya implementada, el colaborador creó su propia rama, en la cual editó y agregó lo que consideró correcto. Una vez terminado su trabajo, creó un pull request para que sus cambios quedaran en revisión. 
  ## Revisión e ingración por el dueño del repositorio
   Al crearse el pull request, le llega una notificación al dueño del repositorio. Este revisa si los cambios propuestos son correctos, y si todo está bien, los integra a la rama main. En caso de que algo no esté correcto, el dueño del repositorio puede declinar los cambios.
+  #### vanessa
+  mayoral
+  luna  
+  2
